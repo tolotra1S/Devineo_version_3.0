@@ -1,0 +1,154 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background: #ddd;
+    position: relative;
+    box-shadow: 0px 0px 3px 3px #ddd, 6px 6px 8px 4px rgba(136, 136, 136, 0.7), -6px -6px 8px 4px rgba(244, 244, 244, 0.7);
+   
+
+}
+.h6{
+    margin-bottom: 200px;
+    margin-left: 100px;
+    background-color: none;
+}
+.cont-container{
+    width: 300px;
+    height: 450px;
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 15px;
+    background: #ddd;
+    box-shadow: 0px 0px 3px 3px #ddd, 6px 6px 8px 4px rgba(136, 136, 136, 0.7), -6px -6px 8px 4px rgba(244, 244, 244, 0.7);
+    
+    text-align: center;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.container1{
+    margin-top: 30px;
+}
+.up{
+    margin-bottom: 30px;
+}
+
+.fields{
+    width: 80%;
+    padding: 0px 5px 5px 5px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30px;
+
+}
+.put1{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 15px;
+    padding: 12px 0px 12px 0px;
+    margin-left: 0px;
+    margin-right: -20px;
+
+}
+
+.put{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 15px;
+    padding: 12px 0px 12px 0px;
+    margin-left: 0px;
+    margin-right: -20px;
+
+}
+
+.put2{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 15px;
+    padding: 12px 0px 12px 0px;
+    margin-left: 0px;
+    margin-right: -20px;
+
+}
+
+.fields svg{
+    height: 22px;
+    width: 100px;
+    margin: 0 -25px -3px -18px;
+}
+.username{
+  
+    height: 35px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 17px;
+    border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #cbced1,
+                inset -8px -8px 8px  #ffffff;
+}
+
+.email{
+   
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 17px;
+    border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #cbced1,
+                inset -8px -8px 8px  #ffffff;
+}
+
+.password{
+    
+    height: 35px;
+    position: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 17px;
+    border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #cbced1,
+                inset -8px -8px 8px  #ffffff;
+}
+
+.button{
+    width: 170px;
+    font-size: 20px; 
+    height: 30px;
+    border-radius: 12px;
+    box-shadow: rgb(0 0 0 / 35%) 2px 2px 3px 1px;
+    border: none;
+    background-color: #ddd;
+}
+
+.but{
+    margin-top: 20px;
+    background-color: #ddd;;
+}
+
+
+.images{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+img{
+    margin-left: 10px;
+    width: 45px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 0px 0.4px rgba(0, 0, 0, 0.2);
+}
+.membre{
+    margin-top: 25px;
+    
+}
