@@ -12,7 +12,7 @@
                 $_SESSION['pseudo'] = $pseudo;
                 $_SESSION['mdp'] = $mdp;
                 $_SESSION['id'] = $recup_user->fetch()['id'];
-                header("Location: D'e-vineo.php");
+                header("Location: D'e-vineoo.php");
             }else{
                 ?><script>
             function myFunction() {
